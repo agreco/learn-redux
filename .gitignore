@@ -1,0 +1,15 @@
+# DEPENDENCIES
+node_modules
+bower_components
+
+# LOGS/TEMPFILES
+npm-debug.log
+.DS_Store
+._*
+
+# FILES
+*.iml
+
+# DIRECTORIES
+build
+*.idea
